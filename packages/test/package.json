@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "nkihrk <40584391+nkihrk@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "type": "module"
+}
